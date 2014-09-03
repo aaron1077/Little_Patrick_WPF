@@ -24,7 +24,13 @@ evaluate each potential solution-
 This solution works and is good. It's not a crazy solution but it solves the problem. This solution would work every
 time with this same criteria.
 Choose a solution and develop a plan to implement it-
-
+Here is my solution to the problem. The man will take the parrot across the river first and drop him off. Then
+he will go back and pick up the cat and take him across, but he can't leave the cat with the parrot because the cat
+will eat the parrot so he drops the cat off but takes the parrot with him. then he picks the last passenger up which is
+the seed but he can't have two passengers onboard so he leaves the parrot there and takes the seed to the other side
+with the cat. Then he goes and gets the parrot again and brings him back to the shore with the rest of the passengers.
+This solution works out perfect. All passengers get to the other side without being by the passenger they will eat. The
+trip is a bit longer but it works.
 
 
 PROBLEM2
@@ -41,10 +47,17 @@ Identify potential solutions-
 A potential solution would be to select socks at random until you get a match, once you get a match you have one of
 your answers. Then keep going until you select a match for all three.
 evaluate each potential solution-
-This solution will work every time. In this senario picking socks blindly, finding matches, itll work no matter what.
+This solution will work every time. In this senario picking socks blindly, finding matches, it'll work no matter what.
 It's a process of elimination.
 Choose a solution and develop a plan to implement it-
-
+My solution is to draw a sock at random. There is only 3 different pairs of socks so once you draw your fourth random
+sock it is guaranteed that you have a pair of at least one color, because even if your first selection is a brown sock,
+your second is a white sock, and your third is a black sock, your fourth selection has to be one of those 3 colors you
+drew, therefore you are guaranteed a pair on your 4th selection. To get one matching pair of all colors is the same
+thing, you just draw more socks. Keep drawing socks at random one at a time. At worse case senario you have drawn 16
+socks which means you have a black and brown pair but maybe not a white pair, but that means there is only white left
+so just draw 2 more times and you will get all three pairs. So if you draw 18 times you are guaranteed to have all
+three pairs.
 
 
 PROBLEM3
@@ -64,5 +77,12 @@ evaluate each potential solution-
 This might not be the best way to come up with a solution to a problem like this, but giving this exact problem it
 works perfect and is fast.
 Choose a solution and develop a plan to implement it-
-
+THe easiest way to do this is to find the pattern, so count on your fingers just like this girl did. You will notice
+10 lands on your pointer finger, 20 lands on your ring finger and so does 30, 40 and 50 lands on your pointer finger,
+60 and 70 land on your ring finger, 80 and 90 land on your pointer finger, and 100 and 110 land on your ring finger.
+See the pattern? it bounces back and forth from your pointer to your ring finger. During sequals of 10 you will have it
+land twice on your pointer in a row and then twice on your ring finger in a row, and it just goes back and forth,
+besides the very first sequal of 10 which lands on your pointer and then switches. It's a pattern. So you now now 10
+lands on your pointer and 100 lands on your ring finger. If you keep going to 1000 you will see it lands on your
+pointer finger. This is a very easy way of doing it once you understand the pattern.
 
