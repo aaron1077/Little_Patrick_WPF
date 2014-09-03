@@ -1,0 +1,58 @@
+Patrick Little
+September 2, 2014
+Web Programming Fundamentals
+Activity ProblemSolving
+
+
+
+
+PROBLEM1
+Define the problem-
+A man is crossing a river on his boat. He has three items with him. A cat, a parrot, and a bag of seeds.
+His boat is only big enough to carry him and one of his items. He has to be careful who he leaves alone
+because the cat will eat the parrot and the parrot will eat the seed. How does he get all passengers to the other side
+without leaving the wrong ones alone together? You have to get all the passengers to the other side without leaving
+the cat and parrot alone, or the parrot and seed alone.
+Break the problem apart-
+
+Identify potential solutions-
+
+evaluate each potential solution-
+
+Choose a solution and develop a plan to implement it-
+
+
+
+PROBLEM2
+Define the problem-
+You have 20 socks in a jar, 10 black socks, 6 brown socks, and 4 white socks. Turn the light off and select a sock.
+Once you select a sock you can turn the light on and see what you selected. What is the smallest number of socks you
+need to select to guarantee you will get one matching pair? What is the smallest number of socks you
+need to select to guarantee you will get one matching pair of each color? Think of how many pairs of socks there are
+and how many you have to pick at random to solve your problem.
+Break the problem apart-
+
+Identify potential solutions-
+
+evaluate each potential solution-
+
+Choose a solution and develop a plan to implement it-
+
+
+
+PROBLEM3
+Define the problem-
+A girl counts the fingers on her left hand starting from one and counting endlessly. She starts at her thumb,
+then pointer finger, then middle finger, then ring finger, and then pinky finger. She then reverses
+and goes to ring finger, middle finger, pointer finger, and thumb. She then reverses again.
+If she does this over and over, what finger will she stop on when she gets to 10, 100, and 1000? Think of the order
+she counts her finger and what pattern goes with it.
+Break the problem apart-
+
+Identify potential solutions-
+
+evaluate each potential solution-
+
+Choose a solution and develop a plan to implement it-
+
+
