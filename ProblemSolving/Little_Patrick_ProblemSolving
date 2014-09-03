@@ -14,7 +14,9 @@ because the cat will eat the parrot and the parrot will eat the seed. How does h
 without leaving the wrong ones alone together? You have to get all the passengers to the other side without leaving
 the cat and parrot alone, or the parrot and seed alone.
 Break the problem apart-
-
+The constraints are that you cant leave certain passengers alone with others and that only one passenger
+can be onboard at a time. the sub goals are getting all passengers across and getting them across one at a time.
+The other sub goal is to not leave the cat with the parrot or the parrot with the seed.
 Identify potential solutions-
 
 evaluate each potential solution-
@@ -31,7 +33,8 @@ need to select to guarantee you will get one matching pair? What is the smallest
 need to select to guarantee you will get one matching pair of each color? Think of how many pairs of socks there are
 and how many you have to pick at random to solve your problem.
 Break the problem apart-
-
+The sub goal is one matching pair and the other sub goal is one matching pair of each color.
+The constraints are you have to do it at random.
 Identify potential solutions-
 
 evaluate each potential solution-
@@ -48,7 +51,8 @@ and goes to ring finger, middle finger, pointer finger, and thumb. She then reve
 If she does this over and over, what finger will she stop on when she gets to 10, 100, and 1000? Think of the order
 she counts her finger and what pattern goes with it.
 Break the problem apart-
-
+The constraints is that she counts a specific way, so you have to follow her pattern.
+The sub goals is to find the way she counts and find the pattern that goes with it.
 Identify potential solutions-
 
 evaluate each potential solution-
