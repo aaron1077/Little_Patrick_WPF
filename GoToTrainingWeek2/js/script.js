@@ -25,6 +25,27 @@ var currentYear = 2014;
 
 //Calculate the age
 var age = currentYear - yearBorn-1;
+console.log(age);
 
 //alert the user with their age
 alert(name+" you are "+age+" years old.");
+
+//Let's make this more complex!!
+//How old the user will be in the future...
+
+//Ask the user how many years in the future we should look
+var yearsMore = prompt("How many years in the future would you like to know?");
+console.log(yearsMore);
+
+//calculate the future age
+//age + yearsMore
+//Casting
+var futureAge = age + Number(yearsMore);
+console.log(futureAge);
+
+//Make the results pretty
+console.log("You will be " +futureAge+" in "+yearsMore+" more years.");
+alert("You will be " +futureAge+" in "+yearsMore+" more years.");
+
+
+
