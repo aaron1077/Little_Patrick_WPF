@@ -24,3 +24,5 @@ console.log(area);
 //The result of the trapezoid
 var result = "The area of your trapezoid screen is " +area+ " inches squared!";
 
+//alert the result out
+alert(result);
