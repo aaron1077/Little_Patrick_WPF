@@ -11,3 +11,9 @@ var numberOfPeople = 15;
 
 //number of pizzas ordered
 var numberOfPizzas = 22;
+
+//number of slices per person
+var slicesPerPerson = numberOfSlices * numberOfPizzas / numberOfPeople;
+
+//write the result
+console.log(slicesPerPerson);
