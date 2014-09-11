@@ -18,3 +18,6 @@ var height = prompt("The height of the trapezoid is how many inches?");
 //area of a trapezoid
 var area = ((Number(topBase) + Number(bottomBase)) * (Number(height))/2);
 
+//print the area
+console.log(area);
+
