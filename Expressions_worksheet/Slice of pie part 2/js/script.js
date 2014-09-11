@@ -3,3 +3,11 @@
 //Expressions_worksheet
 //Slice of pie part 2
 
+//number of slices per pizza
+var numberOfSlices = 8;
+
+//number of people at the party
+var numberOfPeople = 15;
+
+//number of pizzas ordered
+var numberOfPizzas = 22;
