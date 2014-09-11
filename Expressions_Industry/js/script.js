@@ -12,3 +12,6 @@ var topBase = prompt("The top base of the trapezoid is how many inches?");
 //length of the bottom base
 var bottomBase = prompt("The bottom base of the trapezoid is how many inches?");
 
+//length of the height
+var height = prompt("The height of the trapezoid is how many inches?");
+
