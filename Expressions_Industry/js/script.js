@@ -3,3 +3,6 @@
 //Assignment: Expressions
 //Expressions_Industry
 
+//alerting that we are going to find the are of a trapezoid
+alert("We are going to find the area of a trapezoid screen laptop, would you like to help me?")
+
