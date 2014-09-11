@@ -4,7 +4,7 @@
 //Slice of pie part 2
 
 //number of slices per pizza
-var numberOfSlices = 8;
+var numberOfSlices = 16;
 
 //number of people at the party
 var numberOfPeople = 15;
@@ -16,4 +16,12 @@ var numberOfPizzas = 22;
 var slicesPerPerson = numberOfSlices * numberOfPizzas / numberOfPeople;
 
 //write the result
-console.log(slicesPerPerson);
+console.log("Each person ate " +slicesPerPerson+ " slices of pizza at the party.");
+
+
+
+//number of slices sparky gets to eat
+var slicesForSparky = numberOfSlices * numberOfPizzas % numberOfPeople;
+
+//write how many slices of pizza sparky ate
+console.log("Spark got " +slicesForSparky+ " slices of pizza.");

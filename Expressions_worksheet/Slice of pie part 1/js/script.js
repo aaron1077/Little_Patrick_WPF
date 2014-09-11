@@ -16,4 +16,4 @@ var numberOfPizzas = 22;
 var slicesPerPerson = numberOfSlices * numberOfPizzas / numberOfPeople;
 
 //write the result
-console.log(slicesPerPerson);
+console.log("Each person ate " +slicesPerPerson+ " slices of pizza at the party.");
