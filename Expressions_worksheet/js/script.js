@@ -10,3 +10,8 @@ var age = 3
 var doggyYears = age * 7;
 
 
+//result variable
+var result = "Sparky is " +age+ " human years old which is " +doggyYears+ " in dog years.";
+
+//print result
+console.log(result);
