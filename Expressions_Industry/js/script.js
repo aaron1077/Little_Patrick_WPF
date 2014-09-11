@@ -21,3 +21,6 @@ var area = ((Number(topBase) + Number(bottomBase)) * (Number(height))/2);
 //print the area
 console.log(area);
 
+//The result of the trapezoid
+var result = "The area of your trapezoid screen is " +area+ " inches squared!";
+
