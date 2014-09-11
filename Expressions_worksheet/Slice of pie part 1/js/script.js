@@ -7,7 +7,7 @@
 var numberOfSlices = 8;
 
 //number of people at the party
-var numberOfPeople = 16;
+var numberOfPeople = 15;
 
 //number of pizzas ordered
 var numberOfPizzas = 22;
