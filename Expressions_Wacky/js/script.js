@@ -6,5 +6,16 @@
 // first alert
 alert("We are going to find the perimeter of your house and shed and add them together in feet.");
 
+//variable length of house
+var houseLength = prompt("What is the length of the house?");
+
+//print the length
+console.log(houseLength);
+
+//variable width of house
+var houseWidth = prompt("What is the width of the house?");
+
+//print the width
+console.log(houseWidth);
 
 
