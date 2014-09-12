@@ -40,4 +40,12 @@ var shedWidth = prompt("What is the width of the shed?");
 //Print the width of shed
 console.log(shedWidth);
 
+//Variable perimeter of shed
+var shedPerimeter = (shedLength * 2) + (shedWidth * 2);
+
+//Print the perimeter of the shed
+console.log(shedPerimeter);
+
+//alert the perimeter
+alert("The perimeter of your shed is " +shedPerimeter+ " feet.");
 
