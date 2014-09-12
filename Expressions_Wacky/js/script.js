@@ -49,3 +49,12 @@ console.log(shedPerimeter);
 //alert the perimeter
 alert("The perimeter of your shed is " +shedPerimeter+ " feet.");
 
+
+//variable total
+var total =  shedPerimeter + housePerimeter;
+
+//print the total
+console.log(total);
+
+//alert the total
+alert("The total perimeter of your house and shed is " +total+ " feet.")
