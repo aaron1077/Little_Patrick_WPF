@@ -24,6 +24,12 @@ var moneyPerWeek = perHour * hoursWeek;
 //print the money you make a week
 console.log(moneyPerWeek);
 
+//first statement pertaining to the money he makes
+var firstStatement = "You make $"+moneyPerWeek+ " every week.";
+
+//printing the statement
+alert(firstStatement);
+
 
 
 
