@@ -28,4 +28,16 @@ console.log(housePerimeter);
 //alert the perimeter
 alert("The perimeter of your house is " +housePerimeter+ " feet.")
 
+//Variable length of shed
+var shedLength = prompt("What is the length of the shed?")
+
+//print the length of shed
+console.log(shedLength);
+
+//Variable width of shed
+var shedWidth = prompt("What is the width of the shed?");
+
+//Print the width of shed
+console.log(shedWidth);
+
 
