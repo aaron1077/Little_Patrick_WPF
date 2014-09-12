@@ -31,10 +31,13 @@ var firstStatement = "You make $"+moneyPerWeek+ " every week.";
 alert(firstStatement);
 
 //How many months do u want to calculate
-var howManyMonths = prompt("How many months do you want to calculate?");
+var howManyMonths = prompt("How many months ahead do you want to calculate?");
+
+//how many weeks are in a month
+var weeksInMonths = 4;
 
 //how much money you make in the given months
-var moneyPerMonths = moneyPerWeek * howManyMonths;
+var moneyPerMonths = moneyPerWeek * weeksInMonths * howManyMonths;
 
 //store the amount of months in a variable
 var months = howManyMonths;
