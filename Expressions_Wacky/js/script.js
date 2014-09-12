@@ -19,3 +19,13 @@ var houseWidth = prompt("What is the width of the house?");
 console.log(houseWidth);
 
 
+//variable perimeter of house
+var housePerimeter = (houseLength * 2) + (houseWidth * 2);
+
+//print the perimeter of house
+console.log(housePerimeter);
+
+//alert the perimeter
+alert("The perimeter of your house is " +housePerimeter+ " feet.")
+
+
