@@ -12,6 +12,13 @@ var perHour = prompt("How much money do you make an hour?");
 //print the amount of hours
 console.log(perHour);
 
+//How many hours do you work a week?
+var hoursWeek = prompt("How many hours do you work a week?");
+
+//print the hours
+console.log(hoursWeek);
+
+
 
 
 
