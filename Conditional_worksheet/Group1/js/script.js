@@ -15,7 +15,7 @@ var degree = "F";
 if(degree == "F"){
     //then run this string
     console.log("The temperature is " +number+ " degrees Fahrenheit");
-// if the degree is equal to C 
+// if the degree is equal to C
 }else if(degree =="C"){
     //if equal to C then run this string
     console.log("The temperature is " +c+ " degrees Celsius");
