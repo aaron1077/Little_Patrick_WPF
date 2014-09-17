@@ -4,4 +4,4 @@
 //Conditionals_Industry
 
 //first prompt
-var firstPrompt = prompt("Were going to find out if you qualify for our Web Design and Development job.");
+var firstAlert = alert("Were going to find out if you qualify for our Web Design and Development job.");
