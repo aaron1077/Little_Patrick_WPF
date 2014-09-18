@@ -23,3 +23,11 @@ if(howMany > 0){
 
 //variable size
 var size = prompt("What size t-shirt would you like to buy? We have medium, small, and large.");
+//if statement
+if(size == "small" || size == "medium" || size == "large"){
+    //alert message
+    alert("You have ordered " +howMany+ " " +size+ " t-shirts. Have a nice day, please come again.");
+    //print size
+    console.log(size);
+//else if statement
+}
