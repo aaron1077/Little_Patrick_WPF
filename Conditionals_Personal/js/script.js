@@ -21,5 +21,5 @@ if(howMany > 0){
     console.log(errorInput);
 }
 
-
-
+//variable size
+var size = prompt("What size t-shirt would you like to buy? We have medium, small, and large.");
