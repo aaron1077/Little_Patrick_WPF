@@ -12,9 +12,9 @@ var firstPrompt = prompt("How many years have you been working on web developmen
 //Print firstPrompt
 console.log(firstPrompt);
 //if statement saying if firstPrompt is less than 2 thank print to the console
-if(firstPrompt < 2 && firstPrompt > 0){
+if(firstPrompt > 2){
     //Create an alert for the concern of experience
-    alert("Hmm disappointing.");
+    alert("Very cool");
     //else if statement in case they entered nothing
 }else if(firstPrompt == firstCheck){
     //Prompt for if they don't input anything
@@ -23,4 +23,4 @@ if(firstPrompt < 2 && firstPrompt > 0){
     console.log(pleaseInput);
 }
 
-
+var secondPrompt = prompt("How many years of college experience do you have?");
