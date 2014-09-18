@@ -30,11 +30,18 @@ console.log(secondPrompt);
 //if  statement saying if secondPrompt is greater than two then alert that's awesome
 if(secondPrompt > 2){
     //alert that's awesome
-    alert("that's awesome");
+    alert("That's awesome");
 //else if statement that says if secondPrompt equals checkAnswer than prompt please input something
 }else if(secondPrompt == checkAnswer){
     //prompt please input something
     var pleaseInput2 = prompt("please input something");
     //print please input
     console.log(pleaseInput2);
+}
+
+console.log(Number(firstPrompt) + Number(secondPrompt));
+if(Number(firstPrompt) + Number(secondPrompt) >= 4){
+    alert("Awesome interview, come in tomorrow and fill out some papers. You got the job!");
+}else if(Number(firstPrompt) + Number(secondPrompt) <= 3){
+    alert("Sorry but you are not the candidate we are looking for. Better luck next time.");
 }
