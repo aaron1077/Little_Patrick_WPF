@@ -39,9 +39,13 @@ if(secondPrompt > 2){
     console.log(pleaseInput2);
 }
 
-console.log(Number(firstPrompt) + Number(secondPrompt));
-if(Number(firstPrompt) + Number(secondPrompt) >= 4){
+
+//if statement saying if firstPrompt plus secondPrompt is equal or greater than 4, if pleaseInput plus pleaseInput2 is equal or greater than 4, if firstPrompt plus pleaseInput2 is equal or greater than 4, or if secondPrompt plus pleaseInput is greater than or equal to 4 then alert the message
+if(Number(firstPrompt) + Number(secondPrompt) >= 4 || Number(pleaseInput) + Number(pleaseInput2) >= 4 || Number(firstPrompt) + Number(pleaseInput2) >= 4 || Number(secondPrompt) + Number(pleaseInput) >= 4){
+    //alert the message
     alert("Awesome interview, come in tomorrow and fill out some papers. You got the job!");
-}else if(Number(firstPrompt) + Number(secondPrompt) <= 3){
+//else if statement 
+}else if(Number(firstPrompt) + Number(secondPrompt) <= 3 || Number(pleaseInput) + Number(pleaseInput2) <= 3 || Number(firstPrompt) + Number(pleaseInput2) <= 3 || Number(pleaseInput) + Number(secondPrompt) <= 3){
+    //alert the message
     alert("Sorry but you are not the candidate we are looking for. Better luck next time.");
 }
