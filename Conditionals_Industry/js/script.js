@@ -4,7 +4,7 @@
 //Conditionals_Industry
 
 //variable firstCheck
-var firstCheck = "";
+var checkAnswer = "";
 //first alert
 alert("Were going to find out if you qualify for our Web Design and Development job, lets begin the interview.");
 //first prompt
@@ -16,7 +16,7 @@ if(firstPrompt > 2){
     //Create an alert for the concern of experience
     alert("Very cool");
     //else if statement in case they entered nothing
-}else if(firstPrompt == firstCheck){
+}else if(firstPrompt == checkAnswer){
     //Prompt for if they don't input anything
     var pleaseInput = prompt("Please input something?");
     //Print the number entered
@@ -27,4 +27,14 @@ if(firstPrompt > 2){
 var secondPrompt = prompt("How many years of college experience do you have?");
 //print second prompt
 console.log(secondPrompt);
-//
+//if  statement saying if secondPrompt is greater than two then alert that's awesome
+if(secondPrompt > 2){
+    //alert that's awesome
+    alert("that's awesome");
+//else if statement that says if secondPrompt equals checkAnswer than prompt please input something
+}else if(secondPrompt == checkAnswer){
+    //prompt please input something
+    var pleaseInput2 = prompt("please input something");
+    //print please input
+    console.log(pleaseInput2);
+}
