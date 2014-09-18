@@ -30,4 +30,13 @@ if(size == "small" || size == "medium" || size == "large"){
     //print size
     console.log(size);
 //else if statement
+}else if(size == blank){
+    //variable error input
+    var errorInput1 = prompt("Please enter the size you want the t-shirts to be.");
+    //print error input
+    console.log(errorInput1);
+    //alert the message
+    alert("You have ordered " +howMany+ " " +errorInput1+ " t-shirts. Have a nice day, please come again.");
 }
+
+
