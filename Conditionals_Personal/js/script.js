@@ -14,5 +14,12 @@ if(howMany > 0){
     //alert the message if greater than zero
     alert("You have ordered " +howMany+ " t-shirts.");
 //else if statement
+}else if (howMany == blank){
+    //if hwMany equals blank variable than print prompt
+    var errorInput = prompt("Please enter the amount of t-shirts you want to buy.");
+    //print errorInput
+    console.log(errorInput);
 }
+
+
 
