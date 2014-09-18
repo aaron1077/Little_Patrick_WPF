@@ -23,4 +23,8 @@ if(firstPrompt > 2){
     console.log(pleaseInput);
 }
 
+//variable second prompt
 var secondPrompt = prompt("How many years of college experience do you have?");
+//print second prompt
+console.log(secondPrompt);
+//
