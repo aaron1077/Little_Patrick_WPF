@@ -3,4 +3,7 @@
 //Assignment: Conditionals
 //Conditionals Personal
 
+//blank variable
+var blank = "";
+
 
