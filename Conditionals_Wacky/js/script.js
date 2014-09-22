@@ -19,4 +19,5 @@ if(age == error || tall == error ){
     var errorMessage = prompt("enter your answer please.");
 }
 //if result age greater than 2 or tall greater than 2 then alert message otherwise alert the second message
-result = (age > 2 || tall > 2) ? alert("Your donkey can rome free in the pasture") : alert("Your donkey is not qualified to rome free."); 
+result = (age > 2 || tall > 2) ? alert("Your donkey can rome free in the pasture") : alert("Your donkey is not qualified to rome free.");
+
