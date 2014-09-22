@@ -25,4 +25,5 @@ function beeStings(w){
     //return beeStings
     return beeStings;
 }
+//print total
 console.log("It takes " +total+ " bee stings to kill this animal.");
