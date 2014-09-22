@@ -3,7 +3,7 @@
 //Activity: Functions Worksheet
 
 //variable total
-var total = circleCirc(7);
+var total = circleCirc(10);
 //function circleCirc
 function circleCirc(r){
     //variable circleCirc
