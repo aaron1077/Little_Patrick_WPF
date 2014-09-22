@@ -11,3 +11,5 @@ function circleCirc(r){
     //return circleCirc
     return circleCirc;
 }
+//print total
+console.log("The circumference of the circle is " +total+ " inches.");
