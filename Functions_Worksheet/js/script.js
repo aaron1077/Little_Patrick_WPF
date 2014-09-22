@@ -13,3 +13,6 @@ function circleCirc(r){
 }
 //print total
 console.log("The circumference of the circle is " +total+ " inches.");
+
+
+var weight = 20;
