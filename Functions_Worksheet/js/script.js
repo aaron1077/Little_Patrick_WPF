@@ -20,6 +20,7 @@ var weight = 20;
 var total = beeStings(weight);
 //function beeStings
 function beeStings(w){
+    //variable beeStings
     var beeStings = w * 8.666666667
     return beeStings;
 }
