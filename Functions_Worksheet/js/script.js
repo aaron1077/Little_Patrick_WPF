@@ -16,3 +16,4 @@ console.log("The circumference of the circle is " +total+ " inches.");
 
 
 var weight = 20;
+var total = beeStings(weight);
