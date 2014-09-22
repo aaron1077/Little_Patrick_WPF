@@ -14,7 +14,7 @@ function circleCirc(r){
 //print total
 console.log("The circumference of the circle is " +total+ " inches.");
 
-
+//variable weight
 var weight = 20;
 var total = beeStings(weight);
 function beeStings(w){
