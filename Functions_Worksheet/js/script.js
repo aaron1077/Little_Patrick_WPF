@@ -21,3 +21,4 @@ function beeStings(w){
     var beeStings = w * 8.666666667
     return beeStings;
 }
+console.log("It takes " +total+ " bee stings to kill this animal.");
