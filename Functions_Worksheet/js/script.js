@@ -4,3 +4,10 @@
 
 //variable total
 var total = circleCirc(7);
+//function circleCirc
+function circleCirc(r){
+    //variable circleCirc
+    var circleCirc = 2 * 3.14 * r;
+    //return circleCirc
+    return circleCirc;
+}
