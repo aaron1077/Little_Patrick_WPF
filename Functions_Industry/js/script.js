@@ -14,3 +14,4 @@ function polygonArea(a, p){
     //return area
     return area;
 }
+//print total
