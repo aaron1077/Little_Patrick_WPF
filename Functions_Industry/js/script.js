@@ -5,3 +5,4 @@
 
 //alert that we are going to find the area of a polygon
 alert("We are going to find the area of a regular polygon");
+//variable total
