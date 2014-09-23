@@ -3,3 +3,4 @@
 //Assignment: Functions
 //Industry
 
+//alert that we are going to find the area of a polygon
