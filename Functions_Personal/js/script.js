@@ -14,7 +14,7 @@ var fruits = function (a, o, b){
 }
 //variable total
 var total = fruits(prompt("How many apples did you have?"), prompt("How many oranges did you have?"), prompt("How many bananas did you have?"));
-
+//print total
 console.log("You have a total of " +total+ " fruits.");
 
 
