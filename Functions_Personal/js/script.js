@@ -9,7 +9,7 @@ alert("You bought a bag of apples, oranges, and bananas. We are going to find ou
 var fruits = function (a, o, b){
     //variable howMany
     var howMany = Number(a) + Number(o) + Number(b);
-
+    //return howMany
     return howMany;
 }
 
