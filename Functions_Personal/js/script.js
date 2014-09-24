@@ -7,7 +7,7 @@
 alert("You bought a bag of apples, oranges, and bananas. We are going to find out how many pieces of fruits you have.");
 //Variable fruits holding a function
 var fruits = function (a, o, b){
-
+    //variable howMany
     var howMany = Number(a) + Number(o) + Number(b);
 
     return howMany;
