@@ -8,6 +8,7 @@ var fruits = function (a, o, b){
     var howMany = Number(a) + Number(o) + Number(b);
     return howMany;
 }
+var total = fruits(prompt("How many apples did you have?"), prompt("How many oranges did you have?"), prompt("How many bananas did you have?"));
 
 
 
