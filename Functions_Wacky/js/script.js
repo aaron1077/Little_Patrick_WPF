@@ -7,7 +7,7 @@
 alert("Were going to see if you are eligible to join my club.");
 //clubJoin which is a function and stating 2 prompts
 clubJoin(prompt("What is you favorite number?"), prompt("How old are you?"));
-
+//function clubJoin
 function clubJoin(f, o){
     if(f < 30 && o >= 18 ){
         var congrats = alert("Congrats you have made it in my club!");
